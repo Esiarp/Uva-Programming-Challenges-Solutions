@@ -1,6 +1,6 @@
 /*
  Date :- 20.08.2018    Time :- 1:38 am
- CONCEPT :- Numbers accordingly as shown in the calculator
+ CONCEPT :- Displaying numbers accordingly as shown in the calculator's screen
  DIFFICULTY :- Easy
 */
 //change to bits/stdc++.h
